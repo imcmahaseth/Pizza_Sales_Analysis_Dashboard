@@ -40,16 +40,6 @@ This dashboard helps analyze key sales metrics such as revenue, order trends, an
 - *📊 Interactive Dashboard:* Power BI/Tableau integration for live filtering.
 - *📌 Advanced Sales Analysis:* Exploring seasonality, promotions, and pricing strategies.
 - *📜 Automated Reports:* Generating real-time insights for better decision-making.
-
-## 🛠 How to Use
-
-1. Clone the repository:
-   bash
-   git clone https://github.com/yourusername/pizza-sales-analysis.git
-   
-2. Load pizzas.csv into Python (Pandas) or Power BI for analysis.
-3. Explore sales insights using the dashboard visuals.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Submit pull requests to improve insights and features.
